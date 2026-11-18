@@ -1,4 +1,4 @@
-print("Калькулятор v2.0")
+print("Калькулятор от Данила")
 def add(a, b):
     return a + b
 def subtract(a, b):
